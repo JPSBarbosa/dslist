@@ -1,4 +1,4 @@
-**# API REST de Jogos
+# API REST de Jogos
 
 Esta API RESTful foi desenvolvida em **Java 21** usando **Spring Boot**. Ela gerencia informações sobre jogos e listas de jogos, seguindo as boas práticas do padrão REST. A API suporta três ambientes (teste, desenvolvimento e produção) e utiliza bancos de dados H2 e PostgreSQL via Docker.
 
@@ -61,4 +61,4 @@ Modifica a posição de um jogo em uma lista específica.
     "sourceIndex": 3,
     "destinationIndex": 1
 }
-**
+
